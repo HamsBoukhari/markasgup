@@ -1,0 +1,1 @@
+This repository is dedicated to the fine-tuning and deployment of the GPT-2 model for generating CCP messages for the Mark As Give Up Workflow. Explore the Streamlit app via the following link: https://markasgup-mymgunzherqqedw3hkf5wq.streamlit.app/
